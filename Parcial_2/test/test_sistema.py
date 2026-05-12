@@ -1,4 +1,6 @@
 import unittest
+from modelo.cliente import Cliente
+from crud.gestion_tienda import GestionTienda
 from modelo.control_plagas import ControlPlagas
 from modelo.antibiotico import Antibiotico
 from modelo.factura import Factura
